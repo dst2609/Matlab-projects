@@ -1,5 +1,4 @@
 % DEVARSH THAKER
-% MATH-446 Dr. Sarah Khankan
 % FINAL PROJECT Q1
 % function [r fr] = bisection(f,a,b,k,TOL)
 
